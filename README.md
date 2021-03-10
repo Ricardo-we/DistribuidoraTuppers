@@ -44,5 +44,18 @@ public class Reparto_tuppers {
 	}
 
 }
-Este pequeño programa tiene la funcion de atender las necesidades de la venta de tuppers,nos dice la cantidad vendida, el IVA, los descuentos,, total, precio de venta y algunas funciones mas
+Este pequeño programa tiene la funcion de atender las necesidades de la venta de tuppers,nos dice la cantidad vendida, el IVA, los descuentos,, total, precio de venta y algunas funciones mas lo que nos pide el cliente 
+• Costo unitario del producto
+• Cantidad de producto solicitado
+• Total del costo a pagar por la cantidad del producto
+• Precio de venta al público por unidad
+• IVA
+• Total del IVA por unidad
+• Cantidad de unidades a vender
+• Total a cobrar sin descuento
+• Total a cobrar con el descuento
+• Total del IVA sobre el cobro final
+• Indicar el tipo de descuento que se realizó (ninguno, 10%, 15% o 25%)
+• Ganancias obtenidas por la venta
+
 
