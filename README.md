@@ -86,6 +86,7 @@ public class PruebaEmpresaTuppers {
 }
 
 Este pequeño programa tiene la funcion de atender las necesidades de la venta de tuppers,nos dice la cantidad vendida, el IVA, los descuentos,, total, precio de venta y algunas funciones mas lo que nos pide el cliente 
+
 • Costo unitario del producto
 
 • Cantidad de producto solicitado
